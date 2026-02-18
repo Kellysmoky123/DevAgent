@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Index folder
+/.data
+
+# Environment variables
+.env
+
+# Log files
+devagent.log
+
+# Debug files
+reproduce_issue.py
